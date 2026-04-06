@@ -5,8 +5,6 @@ Reduced dimensions while preserving variance
 Captured complex relationships
 Used for better visualization
 
-⚠️ Used only for visualization (not clustering input)
-
 🤖 Clustering Techniques
 🔸 K-Means Clustering
 Primary clustering algorithm
